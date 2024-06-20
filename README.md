@@ -19,6 +19,7 @@ Link to my [Documentation](https://linktodocumentation)
 
 ## Built With
 •	Visual Studio Code 2022
+
 •	Compiled using both Visual Studio and OnlineGDB
 
 ## Running
@@ -26,6 +27,7 @@ Link to my [Documentation](https://linktodocumentation)
 •	Run the code in the terminal
 •	You will get an executable file which you can then play the game in.   
 OR
+
 •	The executable will be given which you can directly open and play.
 
 ## License
