@@ -3,9 +3,13 @@ This project proposes a hangman game which follows the traditional hangman rules
 
 ## Features
 •	There are a total of six tries. It has a thematic twist where there will be two levels: First & Second. 
+
 •	First Level will be decoding the theme of arts which is either literature or movies based on the hint given. 
+
 •	Second Level will be finding the specific word related to it like an author's work or a director’s popular film. The hints for each of the two will also be given.
+
 •	In the second level, for every streak of three, there will be extra life given by deducting one number from the number of misses. 
+
 •	At the end of the game, you will get an option to either restart or close the game.
 
 
