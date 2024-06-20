@@ -15,7 +15,7 @@ This project proposes a hangman game which follows the traditional hangman rules
 
 ## Documentation
 For the Usage and Examples, refer to the Documentation tab listed for a detailed look at how the code functions. 
-Link to my [Documentation](Code Documentation.pdf)
+Link to my [Documentation]([Code Documentation.pdf](https://github.com/MoeezMufti/Hangman---SS24/blob/4978bfe045096b17ba59b898e4f912850b1cc3e7/Code%20Documentation.pdf))
 
 ## Built With
 •	Visual Studio Code 2022
